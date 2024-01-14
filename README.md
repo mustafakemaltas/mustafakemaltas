@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**mustafakemaltas/mustafakemaltas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently working at [Medsien](https://www.medsien.com/) as a full stack developer.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Socials:**
+
+[GitHub](https://github.com/mustafakemaltas)
+[Twitter](https://twitter.com/tasmustafakemal)
+[LinkedIn](https://www.linkedin.com/in/mustafa-kemal-ta%C5%9F-086b94105/)
+
+
+**Academic:**
+
+[Google Scholar](https://scholar.google.com/citations?user=M1NCQ0sAAAAJ&hl=en&oi=ao)
