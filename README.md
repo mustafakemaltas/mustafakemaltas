@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently working at [Medsien](https://www.medsien.com/) as a full stack developer.
+I am currently working at [Medsien](https://www.medsien.com/) as an engineering manager.
 
 ---
 
